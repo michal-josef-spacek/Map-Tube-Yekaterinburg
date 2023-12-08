@@ -36,6 +36,7 @@ Map::Tube::Yekaterinburg - Interface to the Yekaterinburg Metro Map.
 =head1 SYNOPSIS
 
  use Map::Tube::Yekaterinburg;
+
  my $obj = Map::Tube::Yekaterinburg->new;
  my $routes_ar = $obj->get_all_routes($from, $to);
  my $line = $obj->get_line_by_id($line_id);
