@@ -189,8 +189,8 @@ For more information about Yekaterinburg Map, click L<here|https://en.wikipedia.
 
 =begin html
 
-<a href="https://raw.githubusercontent.com/tupinek/Map-Tube-Yekaterinburg/master/images/ex3.png">
-  <img src="https://raw.githubusercontent.com/tupinek/Map-Tube-Yekaterinburg/master/images/ex3.png" alt="Екатеринбургский метрополитен" width="300px" height="300px" />
+<a href="https://raw.githubusercontent.com/michal-josef-spacek/Map-Tube-Yekaterinburg/master/images/ex3.png">
+  <img src="https://raw.githubusercontent.com/michal-josef-spacek/Map-Tube-Yekaterinburg/master/images/ex3.png" alt="Екатеринбургский метрополитен" width="300px" height="300px" />
 </a>
 
 =end html
@@ -287,7 +287,7 @@ Install the Map::Tube concrete metro modules.
 
 =head1 REPOSITORY
 
-L<https://github.com/tupinek/Map-Tube-Yekaterinburg>
+L<https://github.com/michal-josef-spacek/Map-Tube-Yekaterinburg>
 
 =head1 AUTHOR
 
